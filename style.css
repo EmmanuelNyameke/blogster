@@ -104,11 +104,14 @@ h3 {
     background-color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.enterH1 {
+.H1 {
     font-size: 17px;
     font-weight: bold;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-align: center;
+}
+.allArt {
+    width: 90%;
 }
 @media only screen and (max-width:700px) {
     .article {
@@ -117,7 +120,7 @@ h3 {
         width: 100%;
         padding: 0px;
     }
-    .rapper {
+    .allArt {
         width: 99%;
     }
     
